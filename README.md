@@ -9,8 +9,10 @@ Simple React project boilerplate with Gulp to start your new project from the gr
 
 ### run npm install (probably you will need run "npm install -g gulp" first)
 
-## write "gulp" on cmd and press enter
+### write "gulp transform" on cmd and press enter
 
-## write "webpack" on cmd press enter
+### write "gulp bundle" on cmd and press enter
+
+### write "webpack" on cmd press enter
 
 open index.html
