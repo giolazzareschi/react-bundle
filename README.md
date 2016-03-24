@@ -3,7 +3,7 @@ Simple React project boilerplate with Gulp to start your new project from the gr
 
 ## Usage
 
-### Create components in ./components
+### Create .jsx components in ./components
 
 ### open cmd on root folder
 
