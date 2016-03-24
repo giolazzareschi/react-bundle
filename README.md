@@ -7,7 +7,7 @@ Simple React project boilerplate with Gulp to start your new project from the gr
 
 ### open cmd on root folder
 
-### run npm install (probably i'll need run "npm install -g gulp" first)
+### run npm install (probably you will need run "npm install -g gulp" first)
 
 ## write "gulp" on cmd and press enter
 
